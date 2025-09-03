@@ -52,3 +52,25 @@ I created this to **showcase my work to recruiters, collaborators, and tech enth
 
 ## 📂 Project Structure  
 
+
+---
+
+## 📸 Screenshots  
+
+### 🏠 Home / Hero Section  
+![Hero](root/photos/my-photo.png)  
+
+### 💼 Experience Section  
+![Experience](root/photos/nik-portfolio-ui-ux-design.png)  
+
+---
+
+## ⚡ Installation & Setup  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Nikhil870035/My-Portfolio.git
+   cd portfolio-website
+
+
+https://Nikhil870035.github.io/My-Portfolio

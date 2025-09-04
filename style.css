@@ -510,7 +510,7 @@ nav h2:hover {
 .exp-box {
     /* padding: 20px; */
     height: 430px;
-    background: rgba(255, 255, 255, 0.95);
+    background: transparent;
     backdrop-filter: blur(20px);
     border-radius: 20px;
     padding: 2.5rem;
